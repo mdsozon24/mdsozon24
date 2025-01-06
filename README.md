@@ -1,7 +1,11 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm MD Sozon</h1>
 <h3 align="center">A passionate AI engineering from Bangladesh</h3>
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)")
+(img align="right" alt="Coding" width="400" [src="https://cdn.dribbble.com/users/116207..."](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif))
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsozon24&label=Profile%20views&color=0e75b6&style=flat" alt="mdsozon24" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdsozon24" alt="mdsozon24" /></a> </p>
 
 - 🔭 I’m currently working on **Deep Learning**
 
@@ -34,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsozon24&show_icons=true&locale=en" alt="mdsozon24" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsozon24&" alt="mdsozon24" /></p>
