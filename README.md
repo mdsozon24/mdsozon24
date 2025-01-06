@@ -1,9 +1,8 @@
-(https://giffiles.alphacoders.com/360/36007.gif)
+
 <h1 align="center">Hi 👋, I'm MD Sozon</h1>
 <h3 align="center">A passionate AI engineering from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p></p>
-<p></p>
+<br>
 
 - 🔭 I’m currently working on **Deep Learning**
 
