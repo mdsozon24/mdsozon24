@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD Sozon</h1>
 <h3 align="center">A passionate AI engineering from Bangladesh</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mdsozon24](https://media.licdn.com/dms/image/v2/D4D03AQFh50PaJtSCiQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718150296766?e=1741824000&v=beta&t=_7YMKNIHaRq6IDHCsjjz3AWE0AR0vqe9rHMiQuAkQJc)&label=Profile%20views&color=0e75b6&style=flat" alt="mdsozon24" /> </p>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=mdsozon24" alt="mdsozon24" /></a> </p>
 
