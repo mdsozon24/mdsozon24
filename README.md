@@ -2,8 +2,6 @@
 <h3 align="center">A passionate AI engineering from Bangladesh</h3>
 
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=mdsozon24" alt="mdsozon24" /></a> </p>
-
 - 🔭 I’m currently working on **Deep Learning**
 
 - 🌱 I’m currently learning **Machine Learning**
@@ -35,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsozon24&show_icons=true&locale=en" alt="mdsozon24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsozon24&" alt="mdsozon24" /></p>
+
