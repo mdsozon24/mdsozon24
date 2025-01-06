@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fgoogle-classroom-banners--615163630358933977%2F&psig=AOvVaw2ckxui5h_FuC7kAKce-gmy&ust=1736271342803000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjv6vzQ4YoDFQAAAAAdAAAAABAK))
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fgoogle classroom-banners--615163630358933977%2F&psig=AOvVaw2ckxui5h_FuC7kAKce-gmy&ust=1736271342803000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjv6vzQ4YoDFQAAAAAdAAAAABAK)
 <h1 align="center">Hi 👋, I'm MD Sozon</h1>
 <h3 align="center">A passionate AI engineering from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
