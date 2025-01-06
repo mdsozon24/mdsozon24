@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm MD Sozon</h1>
 <h3 align="center">A passionate AI engineering from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=md%20sozon&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D03AQFh50PaJtSCiQ%2Fprofile-displayphoto-shrink_200_200%2Fprofile-displayphoto-shrink_200_200%2F0%2F1718150296745%3Fe%3D2147483647%26v%3Dbeta%26t%3DweIenchBFHrFuS18KDvhr6h3a65Vry6r-NxIVevT5ko&imgrefurl=https%3A%2F%2Fbd.linkedin.com%2Fin%2Fmdsozon24&docid=NqGmK8KHRPEX_M&tbnid=GPYl3XJU31CRLM&vet=12ahUKEwjUn57Lz-GKAxWzTWwGHWKHC08QM3oECBYQAA..i&w=200&h=200&hcb=2&itg=1&ved=2ahUKEwjUn57Lz-GKAxWzTWwGHWKHC08QM3oECBYQAA)">
 
 
 - 🔭 I’m currently working on **Deep Learning**
